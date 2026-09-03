@@ -1,0 +1,7 @@
+{
+    "name": "bbb-resources-plugin",
+    "version": "1.0.0",
+    "description": "Adds a visible Resources button to the BigBlueButton classroom",
+    "requiredSdkVersion": "~0.0.99",
+    "javascriptEntrypointUrl": "ResourcesPlugin.js"
+}

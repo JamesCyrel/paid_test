@@ -35,4 +35,11 @@ return [
         ],
     ],
 
+    'bigbluebutton' => [
+        'base_url' => env('BBB_SERVER_BASE_URL'),
+        'secret' => env('BBB_SECRET'),
+        'checksum_algorithm' => env('BBB_CHECKSUM_ALGORITHM'),
+        'plugin_manifest_url' => env('BBB_PLUGIN_MANIFEST_URL'),
+    ],
+
 ];
